@@ -1,0 +1,11 @@
+Package: mapupgrade
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: person("Sierra", "Graves", email = "sgrav007@ucr.edu", role = c("aut", "cre"))
+Description: Based on the mapsapi and rvoterdistance package... This package will return driving route distances based on locaiton named or coordinates based on voter files.  
+Depends: R (>= 3.4.4)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: mapsapi
